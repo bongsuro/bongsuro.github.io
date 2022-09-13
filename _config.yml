@@ -106,7 +106,9 @@ analytics:
 author:
   name             : GBNJ
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 공부는 사실 재미가 **있다**.
+  bio              : 문과생의 데이터 공부하기.
+                     너무하기 싫지만,
+                     공부는 사실 재미가 **있다**.
   location         : Republic of Korea
   email            :
   links:
