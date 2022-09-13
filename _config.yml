@@ -20,7 +20,7 @@ title                    : "gongbunojam"
 title_separator          : "-"
 subtitle                 : 공부는 즐거워  # site tagline that appears below site title in masthead
 name                     : Jay Kim
-description              : An amazing website.
+description              : I like icecream.
 url                      : https://bongsuro.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : Jay Kim
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : I am an **AMAZING** person.
+  location         : Republic of Korea
   email            :
   links:
     - label: "Email"
