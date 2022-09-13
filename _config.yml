@@ -98,19 +98,19 @@ social:
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : :G-53Q4Z61KZY"
+    tracking_id          : "G-53Q4Z61KZY"
     anonymize_ip         : "flase" # true, false (default)
 
 
 # Site Author
 author:
   name             : GBNJ
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/555.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 문과생의 데이터 공부하기.
                      너무하기 싫지만,
                      공부는 사실 재미가 **있다**.
   location         : Republic of Korea
-  email            :
+  email            : gbnj2022@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
