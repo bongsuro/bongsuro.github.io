@@ -106,9 +106,11 @@ analytics:
 author:
   name             : GBNJ
   avatar           : "/assets/images/555.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 문과생의 데이터 공부하기.
-                     너무하기 싫지만,
-                     공부는 사실 재미가 **있다**.
+  bio              : 문과생의 데이터 공부하기
+                     지금껏 배운 내용들 정리하기.
+                     맥북프로 사고 싶다.
+                     니로 사고싶다.
+                     떡볶이 먹고싶다.
   location         : Republic of Korea
   email            : gbnj2022@gmail.com
   links:
