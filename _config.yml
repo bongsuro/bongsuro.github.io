@@ -115,9 +115,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "gbnj2022@gmail.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/bongsuro"
+    
 
 # Site Footer
 footer:
@@ -125,9 +123,6 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
        url: "gbnj2022@gmail.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/bongsuro"
 
 
 # Reading Files
