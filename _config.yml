@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : 공부노잼
+  name             : GBNJ
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 공부는 사실 재미가 **있다**.
-  location         : Republic of Korea, 
+  location         : Republic of Korea
   email            :
   links:
     - label: "Email"
